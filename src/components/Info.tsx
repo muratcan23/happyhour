@@ -15,7 +15,7 @@ const Info = () => {
         Choose your mood and let's see how much 1 hour is for you.
       </p>
       <p className="flex text-slate-400 text-lg justify-center  size-16px tracking-tight">
-        Do not forget Time is illusion
+        Do not forget that Time is illusion
       </p>
     </div>
   );

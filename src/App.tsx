@@ -1,4 +1,5 @@
 import Info from "./components/Info";
+import Moods from "./components/Moods";
 import Navbar from "./components/Navbar";
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
     <div className="flex flex-col ">
       <Navbar />
       <Info />
-      <div>02</div>
+      <Moods />
       <div>03</div>
     </div>
   );
