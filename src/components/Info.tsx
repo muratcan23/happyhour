@@ -14,7 +14,7 @@ const Info = () => {
       <p className="flex text-white text-lg justify-center font-bold-italic size-20px tracking-tight">
         Choose your mood and let's see how much 1 hour is for you.
       </p>
-      <p className="flex text-slate-400 text-lg justify-center  size-16px tracking-tight">
+      <p className="flex text-slate-400 text-lg justify-center  size-16px tracking-tight italic ">
         Do not forget that Time is illusion
       </p>
     </div>

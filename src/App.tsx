@@ -1,3 +1,4 @@
+import Consequence from "./components/Consequence";
 import Info from "./components/Info";
 import Moods from "./components/Moods";
 import Navbar from "./components/Navbar";
@@ -8,7 +9,7 @@ function App() {
       <Navbar />
       <Info />
       <Moods />
-      <div>03</div>
+      <Consequence />
     </div>
   );
 }
